@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>css</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>09.02.15 EMDD 620 Notes.txt</string>
+		</array>
+		<array>
+			<string>09.08.15 EMDD 610 Notes.txt</string>
+		</array>
+		<array>
+			<string>09.09.15 EMDD 640 Notes.txt</string>
+		</array>
+		<array>
+			<string>09.10.15 EMDD 620 Notes.txt</string>
+		</array>
+		<array>
+			<string>09.15.15 EMDD 610 Notes.txt</string>
+		</array>
+		<array>
+			<string>09.16.15 EMDD 640 Notes.txt</string>
+		</array>
+		<array>
+			<string>09.17.15 EMDD 620 Notes.txt</string>
+		</array>
+		<array>
+			<string>09.19.15 Informal Learning Lesson Structure.txt</string>
+		</array>
+		<array>
+			<string>09.21.15 640 project ideas.txt</string>
+		</array>
+		<array>
+			<string>09.22.15 Crime project pro:con.txt</string>
+		</array>
+		<array>
+			<string>09.22.15 PAC meeting.txt</string>
+		</array>
+		<array>
+			<string>Untitled 2.txt</string>
+		</array>
+		<array>
+			<string>09.02.15 EMDD 620 Notes .txt</string>
+		</array>
+		<array>
+			<string>09.22.15 EMDD 610 Notes.txt</string>
+		</array>
+		<array>
+			<string>09.23.15 EMDD 640 Notes.txt</string>
+		</array>
+		<array>
+			<string>09.24.15 EMDD 620 Notes.txt</string>
+		</array>
+		<array>
+			<string>09.24.15 Examples for 640 project.txt</string>
+		</array>
+		<array>
+			<string>640 Project Pro:Con.md</string>
+		</array>
+		<array>
+			<string>fns bullet points.txt</string>
+		</array>
+		<array>
+			<string>09.22.15 fns bullet points.txt</string>
+		</array>
+		<array>
+			<string>09.28.15 640 annotated bib.md</string>
+		</array>
+		<array>
+			<string>09.29.15 Departmental Meeting Notes.md</string>
+		</array>
+		<array>
+			<string>09.29.15 EMDD 610 Notes.txt</string>
+		</array>
+		<array>
+			<string>09.30.15 EMDD 640 Notes.txt</string>
+		</array>
+		<array>
+			<string>10.01.15 EMDD 620 notes.txt</string>
+		</array>
+		<array>
+			<string>10.01.15 games research for 640.txt</string>
+		</array>
+		<array>
+			<string>640 christy woods project.md</string>
+		</array>
+		<array>
+			<string>custom_md.css</string>
+		</array>
+		<array>
+			<string>custom_md.scss</string>
+		</array>
+		<array>
+			<string>horror_novel.md</string>
+		</array>
+		<array>
+			<string>Multimedia_multitask_dist_cog_summary.md</string>
+		</array>
+	</array>
+</dict>
+</plist>

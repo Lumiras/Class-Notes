@@ -1,0 +1,160 @@
+2 partners for the semester: [Opportunity Education Foundation](http://www.opportunityeducation.org/) and [Children's Museum](https://www.childrensmuseum.org)
+
+[Jared Spool](https://twitter.com/jmspool?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
+[Jakob Nielsen](https://www.nngroup.com/people/jakob-nielsen/)
+
+##Usability 101 Presentation
+
+###Usability Dimensions
+to be usable, a product or service must consider, at minimum, five basic dimensions:
+
+- Learnability
+- Efficiency
+- Memorability
+- Error tolerance and prevention
+- Satisfaction
+
+The importance of these dimensions will differ depending on the particular context and target users. In some systems, learnability may be much more important than efficient. Or, satisfaction may supersede learnability in other systems.
+
+*Qualitative research tends to not be generalizable, so the data is valuable and can inform work on a project, but it is difficult to make general*
+
+###UX Dimensions
+UX practitioners must consider additional dimensions
+
+- Aesthetically pleasing
+- Useful
+- Pleasurable
+- Consistent with moral values
+- Consistent with cultural mores
+- Informationally valuable
+- Ergonomic
+- Easily understandable
+- Expressively supportive
+
+These are harder to measure than the previous entries, as most of the previous ones can be measured with quantitative methods.
+
+Functional vs Usable are two very different things. Functional is easy to measure, but usable is much more difficult
+
+###Common terms in UX
+
+- User friendly vs. Usable
+    - The term 'friendly' tends to anthropomorphize the system, and is problematic
+- Computer-Human Interaction vs. Human-Computer Interaction
+    - CHI people are more concerned with the computer's role in the human using it (eliminating the human), while HCI people are more concerned with how humans interact with computers
+- User-Centered Design vs. User Interface Design
+- Human Factors vs. Ergonomics
+
+
+###System acceptability
+{diagram}
+
+###Usability Measures
+
+Usability should not be subjective or argued. Rather, usability must be systematically approached, measured, evaluated, and improved. Usability must be measured relative to certain users and specific tasks, so it is more restricted.
+
+Usability begins with identification of the specific tasks that a system needs to achieve in a specific context.
+
+
+####Learnability
+The system should be easy to learn so taht the user can rapidly start getting work done or making progress
+
+- **Focuses on novice users**
+    - The first experience users have with a  system involves learning
+- A learnable system **reduces the time** it takes to complete tasks as users spend more time with a system
+- Learning is not dichotomous, it is a continuous process
+    - There is a point where a user has passed from the learning state to a state of adequate to high proficiency
+
+Ultimately, learning can't be measured, but you can measure learnability. 
+
+####Efficiency
+The system should be efficient to use so that once the user has learned the system, a high level of productivity is possible.
+
+- **Focuses on expert users**
+    - Steady-state performance once the learning curve has flattened
+- **Time** is the core usability metric for measurement
+    - Average time on task
+    - Average task completion
+    - Mean time to failure
+    - Time saved
+    - [Keystroke-level modeling](https://en.wikipedia.org/wiki/Keystroke-level_model)
+- Remember that task times are relative, even in experts
+
+####Memorability
+System should be easy to remember so that the casual user can return the system after a period of disuse without having to learn everything all over again
+
+- **Focuses on casual users**
+    - Have used system before, but only use it intermittently
+- Measured by **usability performance test** or **memory test**
+- Memory tests can be problematic because systems are often designed to remind you of what to do in the moment
+- Memorable interfaces often draw on standardized design
+
+####Error tolerance
+The system should have a low error rate so that users make few errors during use, and so that if they do make errors that they can easily recover from them
+
+*Catastrophic errors should **not** happen **ever***
+
+- An error is typically defined as any action that does not accomplish the desired goal
+- Error rate is measured by counting gate number of incorrect actions a user makes while trying doc complete a specific task
+- the severity of an error is often recorded
+
+The severity of a usability problem is a combination of three factors:
+
+- The **frequency** with which the problem occurs
+- The **impact** of the problem
+- The **persistence** of the problem
+
+The following scale is an example of a severity scale:
+
+0 - I don't agree that this is a usability issue
+1 - Minor error, low priority
+2 - 
+3 - 
+4 - 
+{more}
+
+####Satisfaction
+The system should be pleasant to use so that users are subjectively satisfied when using it
+
+- Includes a wide range of satisfaction measures relative to the purpose of the system and needs of users. Eg: fun, entertaining, challenging, easy, fast, time consuming
+- Measured by both subjective and objective methods
+    - Subjective
+        - Interviews
+        - Standardized surveys
+        - Semantic differential scales
+    - Objective
+        - EEG
+        - Pupil dilation
+        - Heart rate
+        - Adrenaline levels
+
+####Evaluation Activities
+
+- **Evaluation strategy**
+    - What you want to achieve by conducting the evaluation sessions and what constraints you have
+- **Evaluation plan**
+    - How and when the evaluation sessions will be conducted
+- **Data analysis**
+    - Process of collating and summarizing data, collected and identifying any usability problems
+- **Data interpretation**
+    - Finding causes of the usability problems, creating a set of recommendations for resolving them, documenting results and recommendations in a report
+
+####Inspection methods
+
+- **Heuristic evaluation**
+    - Having usability specialist judge whether each dialogue element conforms to existing principles
+- **Guideline reviews**
+    - Checking an interface for conformance with a comprehensive list of usability guidelines
+- **Pluralistic walkthroughs**
+    - Meetings with users, developers, and HCI specialists step through a scenario, discussing usability issues associated with dialogue elements
+- **Consistency inspections**
+    - Having multiple designers inspect an interface to see whether it does things in a way that is consistent with their own designs
+- **Standards inspection**
+    - Having interface standards experts inspect the interface for compliance
+- **Cognitive walkthrough**
+    - Explicitly detailed procedure to stimulate a user's problem solving process at each step in the human/computer dialogue, checking to see if a user's goals and memory for actions can be assumed to lead to correct interactions
+- **Formal usability inspection**
+    - Meetings where users, debs, and HCI specialist step through a scenario, discussing usability issues associated with dialogue elements
+    - 
+
+

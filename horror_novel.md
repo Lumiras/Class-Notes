@@ -1,0 +1,4 @@
+#1 - Trevor
+
+Trevor looked at the floor of the van as it bumped and rattled across the rough dirt road, plunging deeper into the dense mountain forest. He kept his eyes fixed on a small stone, a little pebble that must have dropped from someone's shoe, to try to keep his equilibrium. He'd always had a bad stomach, but he was usually alright when it came to riding in cars, but when the whole vehicle was rattling like this, there was no way for him to keep his compsure. The best he could hope for is that nobody would notice.
+The money would be worth it, he told himself, even if it did come at the expense of his own safety. Two thousand dollars for a day's work was hard to beat, though.

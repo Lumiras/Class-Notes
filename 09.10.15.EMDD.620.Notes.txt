@@ -1,0 +1,72 @@
+##Principles of design
+
+####Consistency
+Shifting buttons, elements, can cause confusion. People will fixate on the things that are changing.
+
+####Visibility
+You can't expect people to interact with something if you don't give them hinting to their functionality.
+
+**Discoverability should not involve luck or chance**
+
+give visual clues (play icon on picture to indicate video).
+
+avoid situations where people think they have falsely reached the end of their content.
+
+people are click-happy, they'll always want to click on something if they think they can interact. Icons, images, textures.
+
+####Learnability
+
+####Predicatability
+
+
+##Why should I sketch?
+
+###Sketching
+Sketching is about design, not drawing.
+
+Sketching is a tool to help you 
+- express
+- develop
+- communicate
+
+####Why sketch?
+- **Create**
+    - Early ideation
+    - think openly about ideas
+    - think through ideas
+    - force you to visualize how things come together
+    - brainstorming: generate abundant ideas without worrying about quality
+    - invent and explore concepts
+- **Record**
+    - Ideas you develop
+    - ideas you come across
+    - archive ideas for later reflection
+- **Reflect, share, critique, decide**
+    - communicate ideas you develop
+    - invite responses, criticisms, alternatives
+    - choose ideas worth pursuing
+
+Paper sketches can be prototypes
+
+Sketching allows you to iterate, to build small steps toward your initial idea. It lets you get to where you want to go eventually. You may go all over the place.
+
+**Get the right design, then get the design right**
+
+###Storyboarding
+###Prototyping
+
+###Lo-fi 
+Identify as many problems as you can. Later problems become more expensive and time-consuming
+
+Changes are higher fidelities are more difficult, because you become more biased as you move along in the process.
+
+---
+
+
+###med-fi
+
+---
+
+###hi-fi
+
+---

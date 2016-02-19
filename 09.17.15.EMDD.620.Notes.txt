@@ -1,0 +1,7 @@
+##Prototyping
+
+"Wizard of Oz" prototyping...prototyping where someone behind the scenes is pulling all the levers and arranging things in the background while the user is testing, producing a result that is akin to using the actual product.
+
+*ex: a voice-controlled web browser, someone is navigating with the actual existing interface while the user is just experiencing the 'voice-controlled' prototype.*
+
+

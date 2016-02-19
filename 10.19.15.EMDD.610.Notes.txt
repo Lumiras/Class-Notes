@@ -1,0 +1,24 @@
+##Dual Coding
+[NYT's Geography of a Recession](http://www.nytimes.com/interactive/2009/03/03/us/20090303_LEONHARDT.html?_r=0)
+
+- good example of dual coding
+
+People have challenged dual coding, especially in multimedia. They posit that it may not be so simple and clear-cut as Dual Coding presents things.
+
+##Multimedia learning
+
+Builds on Dual Coding, but adds:
+- Limited capacity (cognitive load)
+- The idea that learning is a combination of:
+    - Filtering
+    - Selecting
+    - Organizing
+    - Integrating
+
+Jenn's PhD prototype: SMART Note
+Learning takes place via
+- annotation
+- reorganization
+- cross-reference
+
+One-tap highlighting is a sort of reverse affordance. It removes all of the mechanical actions required to do highlighting, such as proceeding linearly to scan along a line of text. It reduces the action of highlighting to the end result, removing all of the surrounding noise.

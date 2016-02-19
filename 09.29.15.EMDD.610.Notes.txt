@@ -1,0 +1,74 @@
+###Annotated bibliographies
+
+Handout: [How to write a scientific abstract in six easy steps](http://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/)
+
+We will be submitting papers/work to conferences.
+
+To do this, we need to do a literature review
+
+When doing these annotated bibs, we have to imagine how we will be able to use it a year from now.
+
+*Don't just copy the abstract of the paper.* This is, first off, plagiarism. More importantly, it's lazy!
+
+If we all use the same formula, we will have a more consistent corpus to consult later. It will also help us write the individual entries more easily, with more clarity, and thus they will have more value.
+
+The handout lists the functions of each sentence that should appear in the abstract/annotated bib.
+
+1. What's the topic?
+2. State the problem
+3. Why has nobody else has adequately answered this research question yet?
+    4. what is the significance? Why is this paper so relevant?
+    5. A lot of annotated bibs failed here
+5. How did you tackle the question?
+6. How did you go about doing your research?
+7. What's the key impact?
+
+For our annotated bibs, add:
+
+1. Author credentials
+    2. If the author is a professor or an academic, just listing their position and degrees is enough, it establishes their expertise
+    3. If the author writes for a magazine or trade publication, list the credentials of the publication
+
+You don't have to write at a super high level to do something like this. Make sure your writing is concise, to the point, and clear. This doesn't have to sound academic.
+
+**Your writing must be clear and concise! This is the most important thing about anything you write this entire program**
+
+###New plans for semester
+
+- This week: synthesis session
+- 10/6 Ben and Sarah's presentation
+- 10/13 Fall break
+- 10/20 Begins Cognitive theory of multimedia learning
+
+The week of fall break, try to get ahead of things. This is a bonus, **USE YOUR BREAKS** wisely to get ahead.
+
+We get +1 week to finish annotated bibs for multimediaMultitask/distCog. they were due on 10/5, they are now due on 10/19
+
+Everyone is going to get a "break" on one deadline for one set of projects. You get this once. Once.
+
+###Distributed Cognition
+
+"A collection of individuals and artifacts and their relations to others in a particular work practice" <br> - Rogers and Ellis, 1994
+
+1. Cognitive processes may be distributed across the members of a social group
+2. Cognitive processes may be distributed in the sense that the operation of the cognitive system involves coordination between internal and external (material or environmental) structure
+    3. In a co-op game, players are working outside the game with each other, but they are also working within the game to build
+4. Processes may be distributed through time in such a way that the products of earlier events that can transform the nature of related events.
+
+For example: a complicated math problem
+There's the teacher, the student, and the problem. All of these affect the problem. 
+
+Teacher -> Artifact (math problem/proof) <- student
+
+The artifact changes as the teacher writes it out and steps through it. The student gets hung up at points, and the teacher has to help more. The teacher gets better at certain sections, the teacher requires less instruction on those portions. 
+
+DCog shows that there are lots of different ways to approach a problem, and solutions can be arrived to at different paces or key points.
+
+You bring your own biases, your own skills, your own prior understanding (or lack thereof) to the situation. This makes every complex issue a matter of distributed cognition. It is being accessed from many places and being acted up on in many different realms.
+
+Video games are *prime* examples of distributed cognition. Your PC exists in the world, you are constantly consulting gauges, markers on screen, waypoints, inventory screens, and other environmental factors that are constantly changing and often reacting to what you're doing in the game. How you approach any problem could change greatly depending on all of these things...do I have enough health to move to the next room? Do I have enough ammo to take on the group of heavily armed troops coming my way? Will I be able to make it all the way to the top of the mountain with just three potions?
+
+
+My group: Interactivity in distributed cognition
+
+

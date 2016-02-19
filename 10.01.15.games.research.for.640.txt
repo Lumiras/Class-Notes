@@ -1,0 +1,113 @@
+##Orientation Research
+##Video games and orientation
+
+###Goals
+Examine portions of 5 video games and how they orient players to their world. This can be either the beginning of a game or a key portion of the game. Specifically, I will look at games that make little to no use of HUDs or artificial maps or markers to orient their players.
+
+###Good Candidates
+- Soma
+- The Stanley Parable
+- The Beginner's Guide (maybe? Not even sure what the game is right now)
+- P.T.
+- Outlast
+- Dear Esther
+- Alan Wake
+- Metro 2033 and Metro: Last Light
+- Amnesia: The Dark Descent and A Machine for Pigs
+- Gone Home
+
+
+###Final Games
+- Dear Esther
+- Gone Home
+- Soma
+- The Stanley Parable
+- Metal Gear Solid 5: The Phantom Pain
+
+###Methodology
+I will play the first 30 minutes of each of the above final games, noting specifically how the game orients the player within the world and how it guides them through the experience. I will note how the game caters to Bartles' player types (Explorers, Achievers, Socialites and Killers) as well.
+
+Four of the games were chosen due to their use of little or no HUD, and also due to the fact that they try to tell a story through atmosphere and via the world. They are also fairly small games made by small, independent studios, showing what the efforts of a few can do in crafting a tight and compelling narrative. The fifth game was chosen in order to be an outlier to these games, showing a game with a big budget, a big team, and a much wider audience in mind. It is expected that much more "hand-holding" will be present in this game when compared to the others.
+
+
+##Findings
+
+###Gone Home
+*Gone Home* tells the story of Kaitlin, a girl returning home from college to find that her family is nowhere to be found. What's worse, there is an ominous note from Kaitlin's sister, Sam, saying that she has left the home. The note also urges Kaitlin to not look around the house to find out what happened to her.
+
+####Orientation
+**Portion Played**: The first 30 minutes of the game
+
+Because the game is set entirely inside a home, orientation in *Gone Home* is handled much like anyone would handle walking through an unknown building. 
+
+Upon entering the home, the player is greeted with a mostly dark house, but most of the lamps and light sources in the game that the player can activate are bright in color, making them visible even across a darkened room. There are also many light switches and hanging bulbs present in the game that most players would know to look for when entering a dark room from their experience in being in other dark rooms in actual houses.
+
+The game invites curiosity from players by giving them visual hints that they should look into something. There are many doors cracked open throughout the house, so the player knows that they can go into the room and explore.
+
+One of the most notable things in the game is that players are able to pick up and examine nearly every object in the house, even down to individual pencils seemingly dropped and lost behind couches and chairs. But, the game does a good job at making certain objects that are important to the story of the game more visible or obvious that they need to be interacted with. This is usually done by having the object stand alone in an otherwise cluttered room, or to have a book laying down with its cover up on an otherwise orderly bookshelf. There are also various objects under and inside things in the game that are placed to pique a person's curiosity. By looking out of place, the player is more likely to interact with the objects.
+
+The player is oriented to the story in the game by interacting with certain object and triggering audio readings from Sam's diary. When the player picks up the object, a subtitle will appear with the name of Sam's entry along with audio of Sam reading the entry. This is the most explicit way story is provided to players in the game, because while players may miss small details when they are examining objects in the home on their own, the audio from Sam's diary will always play in its entirety, making sure players are exposed to the entirety of that portion of the story.
+
+Players are funneled through various parts of the house by the fact that, much like in any house, some doors are locked, impeding player progress. This makes players go through the experience of the game in a semi-linear fashion.
+
+####Bartle's Player Types
+
+#####Explorers
+*Gone Home* is a paradise for Explorers. Although the physical space of the house is not particularly large, players can spend hours examining the fine details of nearly every object inside the house. A lot of these objects convey elements of the story of what happened to Sam, but there are also hundreds of other objects that have nothing to do with the story that can nonetheless still be pored over by anyone with the curiosity to do so.
+
+#####Achievers
+The main appeal for Achievers in the game is that they can complete the game via exploring enough of the house to get to the end. The game does not really feature much else for this group, as the objects examined cannot be collected or cataloged in any meaningful way.
+
+#####Socializer
+The Socializer player type isn't all that satisfied with what the game provides, since there is no multiplayer component or interaction with the outside world. But, the game does go to great lengths to examine various familial and interpersonal relationships in Sam's life.
+
+#####Killers
+There isn't a lot for Killers in the game. Overall, the game progresses in a somewhat linear fashion, and there isn't really any opportunity to "break" anything in the game.
+
+
+###The Stanley Parable
+*The Stanley Parable* is a game focused on delivering a short, repeated story about a man named Stanley who works in an office. As Stanley goes through the game, though, he is accompanied by a narrator who notes what he is doing in the game. As the game progresses, the narrator gets more and more upset with Stanley's actions, and the reality of the narrative of Stanley's life begins to unravel.
+
+####Orientation
+**Portion played:** First 30 minutes
+
+Orientation in the game is handled in a number of interesting ways. Most explicitly, the player is instructed by the narrator to go into various doors or walk down various paths. Of course, the player can completely ignore the narrator's suggestions and go down alternate paths as they see fit, much to the frustration of the narrator.
+
+The game also guides the player through the environment by opening certain doors and locking others. It is interesting to note, though, that due to the game's structure of repeating the same small environment over and over again, a player's orientation to the environment is not always accurate. In some run-throughs, doors will be locked, but in others they will be unlocked if the player goes to them, leading to an alternate path. This causes the player to constantly want to mess with the environment to see what things have changed in this run through the game.
+
+Another very explicit method of orienting the game uses comes after the game has run its course about five times. In frustration, the narrator places a yellow line on the ground, instructing the player exactly what path to follow. Again, the player doesn't have to follow this path, and as the game proceeds, the line begins to meander and seems to lose its usefulness, to humorous effect.
+
+
+####Bartle's Player Types
+
+#####Killers
+*The Stanley Parable* is primarily designed to illustrate the power of the Killer player type within a game. Even though the game tries to lay out a very simple narrative by presenting the player with a narrator, clearly opened doors and clearly marked paths, the game is simultaneously presenting the player with tantalizing alternatives to diverge from this path. There are numerous opportunities where the player is given explicit instructions from the narrator to do something or not do something, and the player can choose to act in the complete opposite way than what was 'expected' from the narrative. These divergences are rewarded greatly in the game, as deviating from the path allows the player to explore new areas and disrupt the gameplay, all the while this disruption is being commented on by the narrator. In fact, being a Killer is really the only way a person can truly see all that the game has to offer.
+
+#####Explorers
+Explorers are rewarded in the game much in the same way Killers are within the game, by diverting from the predetermined path to find new areas in the environment. Despite the initial bland appearance of the game, there is a wealth of interesting places to find if the player chooses to diverge from the path.
+
+#####Achievers
+Achievers are given a lot to do in the game. At one point, the game reveals a room that shows a long list of all the possible endings the game contains, and shows the player what endings they've already seen, and which ones remain. Achievers are also given satisfaction in the form of literal achievements through Steam, the digital platform that delivers the game. One achievement earned by trying to open a door twenty times is even commented on by the narrator as an exercise in futility...but the achievement is still given if the player fufils the conditions.
+
+#####Socializers
+Other than the fact that the various secrets and twists of *The Stanley Parable* are fun to talk to friends about, Socializers aren't given much satisfaction with the game. The game is solely single-player, and the only interaction with a person comes in the form of the omnipresent narrator's voice talking to the player. There is no explicit interaction between characters in the game other than the narrator reacting to the various things the player is doing within the world. 
+
+###Metal Gear Solid V: The Phantom Pain
+*Metal Gear Solid V: The Phantom Pain* (abbreviated as MGS5) is a stealth action game set in an open world. The player plays as Big Boss (otherwise known as Solid Snake and about a dozen other names in a mythology that is way too complicated to get into here). The game tasks the player with completing various missions to move themselves through the story, but these missions can be taken in a non-linear order, and there are plenty of side missions to be undertaken at any time.
+
+####Orientation
+**Portion Played:** 2 15-minute sections starting from the beginning of a mission.
+
+Due to the large size of the game environment, orientation in MGS5 is done through a number of different ways, mostly related to getting the player character to approach a certain objective. The player is free to approach this objective from any angle and by many different means (by foot, by vehicle, by horseback, etc.). The player is given a HUD that displays current objectives and waypoints for the mission, and they are also given a digital assistant, called the iDroid, to allow them to look at maps, check out objectives, and order supplies to be airdropped into the environment.
+
+In addition to the extensive overlays and maps the game provides, the environment itself also serves to orient players to the world, especially at night. The player can easily see the floodlights of enemy encampments, the light-pollution haze of large bases, or darkened buildings dotting the otherwise barren landscape.
+
+When reaching the objective, the player is able to orient themselves to the environment by scouting the area with binoculars. When they do this, enemy positions are noted and enemies are then "marked", allowing the player to have a seemingly omniscient knowledge of where the enemies are within an area at all times.
+
+####Bartle's Player Types
+
+#####Achievers
+Achievers are given a lot to work with in the game. The game rewards players for successful actions, such as completing missions, safely extracting prisoners and equipment, and progressing through the story. At the end of every mission, the player is given a ranking that tells them how well they did, and where they can improve.
+
+#####Explorers
+Due to the open world nature of the game, MGS5 is great for Explorers 

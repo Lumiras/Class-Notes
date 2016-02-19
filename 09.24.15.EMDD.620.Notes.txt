@@ -1,0 +1,109 @@
+###Professor Garfield presentation
+####Bob Levy
+
+Bob proposed PG idea to Jim Davis as an educational tool
+
+started around 2002
+
+Tom Kinghorn, chair of PGF
+
+president of online division of Pearson came aboard onto PG, gave them millions of dollars of unused content...
+
+Site was built from disparate parts, welded together as time went on.
+
+MM storytelling, new site, they're very proud of it...
+
+
+##Q&A session with Bob and Derek
+
+###IA/site nav questions: Me, Erin, Ryan
+Almost all of the site is an iframe wrapped around other people's content. Very little of the content is original.
+
+Ad banner at the top is for partner content...but there are links to that content on the front page. Why do you have ads for your own content?
+
+COPA (Children's Online Protection Act) laws are a major part of the design of PFG. Marketing to people under 13 is highly regulated.
+
+Both Flash and HTML5 sites will be maintained. Holy fucking shit.
+
+No new content will be made without new grants.
+
+They want a mobile site too. This is a joke.
+
+All new content will be HTML5
+
+They have no plans to sunset the Flash site. None. It hasn't even been a conversation.
+
+After School Network very interested in 3D printing.
+
+G-Cubed is the most popular portion of the site. 
+
+They allegedly have no control over their content, but it's all Garfield branded. Why do they not have any control over it?
+
+###How teachers use the site: Briee, Aiste
+They say the lack professional development, a how-to site for how to use the site
+
+So, they don't want to re-do their shitty site, they just want to create an extensive guide on how to navigate their shitty site. Because they've invested *so much (already spent and won't be recouped...) money*
+
+They don't sell stuff...too much.
+
+They're spending tons of money, but I thought they said running the site cost no money???
+
+They sell "digital lockers"...???
+
+Chicago Public Schools are a partner, they can buy stuff from PGF. 
+
+Teachers tell other teachers about the site, there is no direct advertising.
+
+SETDA (State Education Tech Directors Association)
+
+Jenn suggests doing a transmedia site surrounding "Support Your School" month
+
+ISTE, it's a teacher convention...they advertise at it.
+
+###Analytics: Tanner, Jess
+Site traffic drops to 1/3 during the summer. This is only used in schools.
+
+They've created 70% of the content, allegedly. The other 30 is partner content...but partner content is given almost all the links from the front page.
+
+Content is created with assistance from educators.
+
+###Student UX: Ben, Holly
+**For being a non-profit, they sure talk a whole lot about money!!!**
+Of course, they're hiring people in India to do further development. It's all about money.
+
+
+They did a large shuttering and recovering of content on a portion of the site designed around kids with ADD/ADHD and dyslexia. And, of course, the best way to format a site to help kids with ADD and dyslexia is a site that changes its naming conventions and site structure **all the time**
+
+No consideration for accessibility. None.
+
+They had to do an ADA-compliant game, but they did no actual research into how to make things accessible. They just sort of did what they thought might work.
+
+Money money money money money money money money. Most used word of the day.
+
+###Jenn's notes
+How the site focuses on digital literacy, STEM
+
+Is it possible to present a top level nav that allows you to then filter down into the other categories? There better be.
+
+Wants him to do an inventory on what can be changed and what cannot be changed.
+
+Maybe we could do some of the coding. Why pay people in India when you can have grad students work for free?
+
+###Main big-picture challenges for PGF
+- Getting feedback from teachers regarding site content
+- How to make the site easier to use when you first visit it
+    - Maybe make a video explaining how to use the site. They aren't really interested in making a well-designed site, just describing how to use a poorly designed one!
+    - Section off by grade level
+        - But maybe section by subject matter?
+    - Personalization for the end user
+
+###For next week
+Show work done in the previous week
+
+We may get beta site access, but don't worry about where they are going.
+
+1. Polish intro and design analysis based on today's findings
+2. Low-fidelity prototypes
+    3. ideation of how things can be improved
+4. 
+

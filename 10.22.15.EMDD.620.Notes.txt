@@ -1,0 +1,91 @@
+##Project Management
+
+###What makes a bad meeting?
+- Bad communication
+- Bad pace
+- Bad cooperation
+- lack of awareness of schedule
+
+###What makes a good meeting?
+- Readily available schedule
+- Problem discussions
+- Understanding the communication tools, using them correctly
+- Stand-up meetings (30 minutes, always standing)
+- Providing an agenda ahead of time
+- No distractions
+- Having clear objectives
+
+###Bad management/client experiences
+- No constraints, no design brief
+- trying to guess what managers/clients want
+- No stakeholder imput
+- clients from hell
+
+Ultimately, though, this is the fault of the designer for not prepping, for not doing design thinking. There are issues with people doing "shower thinking", coming up with something suddenly and dropping it in arbitrarily.
+
+Stakeholders:
+- Bosses
+- Money people
+- Users
+- Anyone who can kill a project
+
+###Accountability
+- People who don't do work
+- No checks and balances
+- No established deadlines
+
+
+##Most important aspects of design thinking
+- Immersive, holistic observation
+- Interactions with real world
+- Identify outliers
+- Identify themes and key findings
+- Audience and identifying goals
+- Holistic development
+    - Patrick Jordan, 4 pleasures
+- Communicate, build small
+- Fail often
+
+##Empathize
+Observe things outside of your area, cast as wide a net as you can, and then compare key findings
+
+Embed yourself in a community. Put yourself in their shoes, literally, if you can.
+
+###Assume a beginner's mindset
+- Don't judge
+- Question everything
+- Be truly curious
+- Find patterns
+- Listen. Really listen.
+
+Keep asking why. Find key terms and ask why they're making statements about that, why they're saying it the way they said it.
+
+####(W)hat
+What are they doing?
+####(H)ow
+How are they doing it?
+####Wh(y)
+Why are they doing it?
+
+
+###Camera studies
+Ubiquitous capture of a process
+Not all that useful in this section, as it takes a lot of time and resources
+
+###Interview for empathy
+
+###Story share and capture
+
+
+
+##Define
+
+##Ideate
+Make ideas, but be broad. Be divergent.
+
+##Prototype
+
+##Test
+
+This process isn't entirely linear. You should be testing and re-testing as you go along. Don't go too far down the path and get caught with a big problem at the end.
+

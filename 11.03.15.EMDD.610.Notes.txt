@@ -1,0 +1,141 @@
+#Designing Pleasurable Products
+
+##Session 1: 11/03
+
+###What makes a pleasurable product?
+
+They are:
+
+- Simple
+    - to learn
+    - to use
+- Fun
+- Functional
+- Complete/frictionless
+    - no extra parts needed
+- Intuitive
+- Attractive
+
+###The Four Pleasures
+
+####Physio-pleasure
+Body, sensory pleasures
+
+- Special advantages and disadvantages
+- Musculoskeletal characteristics
+- External body characteristics
+- body personalization
+- physical environment
+
+
+####Socio-pleasure
+Relationships
+Status and image
+
+- Sociological characteristics
+- Status
+- social self-image
+- social relations
+- social labels
+- social personality traits
+- social lifestyles
+
+####Psycho-pleasure
+Cognitive and emotional reactions
+
+- special talents or difficulties
+- psychological arousal
+- personality traits
+- self-confidence
+- learned skills and knowledge
+
+####Ideo-pleasure
+Values and aesthetics
+
+- Personal ideologies
+- religious beliefs
+- social ideologies
+- aesthetic values
+- aspirations
+
+###Formal and experiential product properties
+
+####Formal properties
+"Can be objectively measured or have a clear and unambiguous definition within the context of design"
+
+####Experiential
+are defined in the context of which the product exists
+
+
+###Elements of product design
+
+- color
+- form
+- graphics
+- materials
+- sound
+- interaction design
+
+###Evaluating designs for pleasurability
+
+####Prototyping
+
+- Product benefits specification
+- Product properties specficiation
+- Visual prototypes
+- Models
+- Screen based interactive prototypes
+- Fully functional prototypes
+
+##Session 2: 11/10
+
+###Need pleasures vs. pleasures of appreciation
+"need" is a misnomer, need pleasures aren't things you need to survive, they are just something you have a very strong affinity for, to the point where using an alternative to that product may cause excessive anxiety/negative feelings in the user.
+
+###Criticisms
+This model isn't a catch-all, and things are built for a general audience...so you can't tailor the thing you make for the specifics of every user's pleasure needs.
+
+###Value Sensitive Design
+
+[Value Sensitive Design](https://en.wikipedia.org/wiki/Value_sensitive_design) runs in close parallel to the Four Pleasures, but is more applicable to digital products.
+
+
+###Breaking down Professor Garfield via VSD
+
+####Moral Perspective
+- disclosure of partner content vs. original
+- personal info protection and privacy
+- laws
+- client restrictions
+    - no drugs
+    - no violence
+    - no sex
+- Consider double entendres, innuendos, possibly troubling acronyms, word origins
+- Accessibility
+    - Color blind mode
+    - Consider epilepsy
+    - Read-aloud mode
+
+####Usability
+- Ability based design
+- Consistency in navigation, page structure
+- Bandwidth
+- Mobile vs. browser
+- bugs
+- Little people concerns
+    - motor skills
+- System requirements
+
+####Conventions
+- Academic system requirements
+
+####Personal predilections
+
+
+##Exercise: Archetype person
+Re: Professor Garfield
+
+##Topic idea?
+Video games and the 'gamer' identity. How do games fulfill the pleasures?
+
+

@@ -1,0 +1,113 @@
+###Showcasing your work
+
+[Popular Culture Association/American Culture Association](pcaaca.org/regional-conferences/)
+
+Many regional associations related to pop culture as well as national/regional conferences
+
+[On Communication](oncommunicationmedia.com/2016-conference/call-for-presenters)
+
+These are both small conferences, and allow a broad discussion of topics.
+
+Sitting and making stuff on your own doesn't make grad school worth it. You can find people and make something. Going out
+
+**If you wait until you think it's perfect, you'll be dead**
+
+The projects made in this class can be a case study. It can be showcased and studied. Other people will be interested in it.
+
+Grad school is about engaging with people. If you don't do it, if you don't present, if you don't go out there, you're robbing yourself of the experience.
+
+
+###Ideation/design thinking presentation from 620: Emily and Elise
+
+when researching when people connect with narratives re: *Funny in Farsi*, they looked at the people who read the book and the others that didn't, but they also looked at people who were incredibly interested and engaged with a narrative via interviewing a Doctor Who fanclub to see how they devote themselves to the narrative.
+
+Interviewed members of the group, but also just observed their behaviors. How did they interact with the narrative?
+
+Sarah and Emily collected separate datasets, and didn't cross them over until they were done collecting.
+
+Separating is good, it keeps the data pure and prevents someone from setting the stage early and biasing the findings. 
+
+**You want to get people to tell you stories, and if you let them, they will**
+
+**Especially from extreme users**
+
+The cascade effect: when you have finally collected lots of data, pour it all into the situation and see how the ideas come together
+
+A representative statement: out of all your data, what is the one key passage or element that represents your findings as a whole?
+
+The first, obvious options are usually shitty and uninteresting. But with enough iteration and processing, you can eventually get to ideas that are way too out there, but you also get a core of ideas that are worth going into.
+
+Setting up your space is just as important as anything else. Get yourself ready, prepped, and focused on making ideas. Give yourself the resources, eliminate distractions, and go for it.
+
+##Story Bits - Presentation
+
+###If not a literary story, then what?
+- Evocative spaces
+    - create a realm where people can build their own stories and actions using familiar (or unfamiliar) spaces
+- Enacting spaces
+    - Create a space with defined goals that may or may not contribute to an overall story
+
+###Creating a story world
+- create your logline: a description of the setting, audience, and the conflict
+- Mark influencing events
+- Create decision points
+- Build milestones
+
+[Periodic table of Storytelling](http://www.designthroughstorytelling.net/periodic/)
+
+[JJ Abrams' Mystery Box](https://www.youtube.com/watch?v=vpjVgF5JDq8)
+
+Give people a mystery, they don't know what is in it initially, they have to figure out what's in it.
+
+What do people need to unpack in order to solve this?
+
+Mystery is what makes us turn the page
+
+You don't have to answer the whole mystery. Leave threads unpulled.
+
+###From storytelling to story making
+
+Think Spreadable Media:
+- encourage fan creation
+- Develop avenues for participation
+- Create digital and physical artifacts
+    - Consider *Paradox of Choice*: how do you get a crowd? Limit choices, create cascades of movement
+
+The mystery box doesn't have to have a lot of choices, it has to have a few of the **right** choices to give the player in order to make it enjoyable.
+
+Create fragments
+
+Revealing the plot in bits and pieces is good for them, especially when it is completely novel information.
+
+###Game mechanics and mechanisms
+
+- Turns
+    - player movements, followed by summary of actions
+- Auction/bidding
+    - Requiring players to give something to get something
+- Capture/eliminate
+    - Require players to get something to move forward
+- Resource management
+    - Require players to give and take certain elements in order to navigate
+- Risk/reward
+    - Players determine how much they will give in order to get increasing bits of info
+- Role playing
+
+###Game victory conditions
+- Goal
+    - Achieving an overarching series of quests
+- Loss Avoidance
+    - You begin with a number of chits, and must maintain them
+- Piece elimination
+    - Removing chits from the opponent
+- Puzzles
+    - Solving problems through logic or acquisition
+- Structure building
+    - Gathering + assembling pieces
+- Victory Points
+    - A running total of achievements
+
+    
+
+
+

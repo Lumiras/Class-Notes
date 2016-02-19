@@ -1,0 +1,9 @@
+overall structure
+
+- Intro
+- Methodology
+- Results (triangulation)
+    - lit review
+    - 10-user UX study
+    - content analysis
+- discussion

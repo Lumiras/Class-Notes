@@ -1,0 +1,21 @@
+###Adobe DPS
+
+Set of extensions and plugins for inDesign
+
+Launched shortly after iPad launch
+
+Good for making enhanced media without having to do a lot of coding and overhead
+
+DPS can produce iOS-ready apps that don't have to be on the app store, good for testing.
+
+DPS is a good prototyping tool for the low/medium level with the ability to possibly use it in making the high/final level work.
+
+supports embedded iFrames
+
+###Announcements
+
+In class next week: take what we have to a medium-fidelity level
+
+Needs to have aesthetic improvements, have more of a structure, have some functionality.
+
+In class, we will run simple user testing using classmates as subjects.

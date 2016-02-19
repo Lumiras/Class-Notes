@@ -1,0 +1,22 @@
+##Merging Blind Art and Reconstructed Stories
+
+This doesn't have to be that complicated, we are just adding in the reconstructed stories into the idea of the Blind Art
+
+Players are given a packet of disparate words and are encouraged to share their stories made using the words. Or maybe players are just given them, this can be a teaser that will be fleshed out once the students get on campus. This can be magnetic poetry, and players can play with it, put it on their fridge, whatever...they may not even know the full utility of the words until they actually get to campus.
+
+At the start of classes, a large digital billboard is unveiled with a wholly obscured piece of art, with instructions that the more students contributed their reconstructed stories, the more the art would be unveiled.
+
+Additionally, players who want to contribute more can make art or some kind of reaction to the reconstructed stories, more rapidly building the art piece.
+
+The reconstructed stories would be displayed prominently throughout the dorms, on TVs, on websites, and via social media. Students should see these stories left and right. 
+
+There would also be public places where many of these word piles are placed in places where people will interact with it. Players are then able to create a story and 'lock' it in place, putting it somewhere to be collected later. These would then be added to the cumulative count.
+
+This way, players who just want to mess with something and make a little thing can make their small contribution, which could then be adapted by other, more participatory freshmen who would create bigger art pieces (which have a bigger impact on revealing the final art piece).
+
+Retain the reward for the class, but everyone can participate this way, not just artists or people with a lot to say. We still have tolerance for those people, though, but this is more inclusive.
+
+This doesn't need much more work, it's merging a fork. The projects are complementary.
+
+The website could be a kind of art gallery, showing off the original pieces, and showing the reactions made to this piece. This has the GitHub/Open Source mechanic to it, people can see forks and branches, and can determine where they want to contribute.
+

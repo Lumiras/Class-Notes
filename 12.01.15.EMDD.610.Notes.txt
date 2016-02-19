@@ -1,0 +1,36 @@
+Resmini and Rosati separated IA into 4 separate categorizations:
+
+- Information Architecture
+- Information Design
+- Information Systems
+- Information Science
+
+These all separated from the 1970s to the 1990s, but at the end of the 90s up until today, people have sought to synthesize between these realms.
+
+this was all mainly driven by the rise of personal technology, and the ubiquity of computer systems.
+
+Information design - designing and developing information for an organized space
+
+Wurman was talking more about information design than information architecture
+
+Researchers see InfoSys as evolution of IA
+
+Info architect is the person who organizes the patterns in data, making content clear
+
+A person who creates the structure or map of information who allows the user to find their personal path to knowledge.
+
+The emerging 21st century occupation addressing the age focusing on clarity, human understanding and the science of the organization of information
+
+
+how to solve problems of information management for the business needs or organization of large systems.
+
+InfoSys is more about organization, more tuned to business
+
+2 roles for InfoSys
+- Structuring of enterprise-wide information assets
+- Design of individual website, app, portal (lol)
+
+organize
+label
+navigate
+search

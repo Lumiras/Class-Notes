@@ -1,0 +1,213 @@
+#Cognitive Walkthrough
+
+Focuses on how easy it is for new users to accomplish tasks with the system
+
+Cognitive walkthrough is task-specific, whereas heuristics evaluations are more holistic.
+
+Walkthrough is point-to-point, checking for friction along the way
+
+Emulating paths a new user would take to complete a task
+
+##Process
+
+1. Task analysis that specifies the sequence of steps or subtasks required by a user to accomplish a task, and the system responds to that action
+3. Designers and developers walk through the steps as a group, asking themselves questions at each step
+5. Data is gathered during walkthrough and a report of potential issues is compiled
+6. System is redesigned to address the issues identified
+
+---
+
+- Usually 10-20 tasks
+- Make tasks broad enough to engage a user fully, don't guide them down the exact path.
+- Don't let the task guide them, give them an objective.
+- Avoid language specifically used within the interface. For example, if you want them to buy a pair of shoes, and you have a "buy" button, it will lead them on. Use a synonym instead
+- Broad tasks are much better than detailed subtasks
+- This is a good way to avoid putting users through useless tasks. See what you can find out on your own before you put it in front of users
+- Try to write subtasks that specifically exclude certain actions (don't use the search bar)
+
+Typically, 4 questions are asked:
+
+1. Will the user try to achieve the effect that the subtask has?
+2. Will the user notice that the correct action is available?
+3. Will the user understand the subtask can be achieved by the action?
+4. Does the user get appropriate feedback?
+
+#Contextual Inquiry
+
+The core premise of Contextual Inquiry is simple: go where the customer works, observe the customer as he or she works, and talk to the customer about that work. Do that, and you can't help but gain a better understanding of that customer.
+
+##Design from data
+
+- The user is not like us
+- We need data to understand users and their work
+- We need specific instances of experience
+
+##Key Benefits
+
+- Systematic method for gathering and representing data about the user and their work
+- Requires design team to agree on common observations and their representation
+- Reveals hidden aspects of work that may be implicit in user's activity
+
+##Key Principles
+
+- **Context**: See the work where it unfolds
+- **Partnership**: Make yourself and the user collaborators in understanding your work
+- **Interpretation**: Assigning meaning to design team's observations
+- **Focus**: Shared starting point, orienting the team and user toward a common goal
+
+
+
+##Self-report vs. Observe
+
+**Retrospective accounts are often summaries**
+- "I got to work, checked my email and had a cup of coffee"
+
+**By being present in the time and place of activity, we can get a much richer view of the data**
+
+- Report on actual activity
+- Reality can and will surprise us
+- Avoid abstract details and focus on facts
+- Think in terms of master/apprentice
+
+##What to look for
+
+Besides getting the picture of what happens and how the activity actually unfolds. Look for: 
+
+- Workarounds (shortcuts, problem solving)
+- Mismatch between what people say and do
+- Offhand, under the breath comments
+- Sighs
+- Rolling of eyes
+- Confessions
+
+##Early design ideas
+
+CI is a fine time to get initial feedback on design ideas
+
+"If you had a device that did X, would that solve the problem?"
+
+Users will quickly understand the intent of your suggestion and will be able to provide direct feedback
+
+this will also demonstrate your understanding of the problem, providing opportunity for brainstorming and/or clarification
+
+##What to avoid
+
+- Not being inquisitive enough (settling on just watching)
+- Overly disrupting the task
+- Turning it into a regular interview
+- Failing to respect your participants
+- Failing to observe and take good notes
+- Focusing on the wrong details
+- Slipping into abstraction
+
+##Interpretation
+
+Check your interpretations of the user's actions to make sure they are accurate.
+
+"I saw you removed that recipe, is that because you didn't find the right ingredients?"
+
+
+##Interview Flow
+
+- Interview/warm-up
+- Transition
+- Observe behavior
+- Share interpretation
+- Refine interpretation
+- Repeat past 3 until needed
+- Wrap-up
+
+#Work Models
+
+##Collecting Material
+
+The outcomes of a contextual interview are:
+
+- Detailed notes on (anonymized) user activity
+- Pictures/videos
+- Physical artifacts
+
+##Team interpetation
+
+The results of each interview are discussed, refined, elaborated, shared and represented withinthe team
+
+The results of team interpretation are:
+
+- Numbered notes (including observations, annotations, design ideas), indexed by user (e.g. P2, N38)
+- Individual work models
+
+##Roles
+
+###Example of roles
+- Interviewer
+- Participant
+- Note Taker
+
+##Work Models
+
+- **Flow**: Direction of communication and coordination (which stakeholder communicates with which stakeholders?)
+- **Sequence**: Detailed sequence of work steps (what happened when?)
+- **Artifact**: Physical objects that support the work (what is used during the activity?)
+- **Culture**: External influences (what influences the actions?)
+- **Physical**: Layout of work environment (where does activity occur and how is this place articulated?)
+    - Blueprint
+
+###Flow Model
+
+Identify:
+
+- Relevant stakeholders and their roles (same person may play different roles)
+- Main tasks of each role
+- How they interact and for what purpose
+- Breakdowns (things that go wrong, or can be improved in the coordination, communication flow)
+
+
+###Sequence Model
+
+Identify:
+
+- Low-level, step-by-step information on how the activity is actually done
+- Main intents of user
+- Actions to complete each intent
+- Triggers that determine an action
+- Breakdowns (delays, interruptions, redundancies)
+
+###Artifact Model
+
+Identify:
+
+- Parts of the physical environment where work happens
+- Organization of space, groupings
+
+###Culture Model
+
+Identify:
+
+- Profound reasons and motivations and influences surrounding user's decisions (from other people, peers, past experiences)
+- Tone of the place, expectations, desires, written or unwritten rules and policies
+
+###Physical Model
+
+Identify:
+
+- How physical space affect experience
+
+
+##Consolidation
+
+- Consolidating models across different users and interviews allows the team to see patterns
+- Some observations may be missed - by consolidating several interviews, we can achieve better coverage
+- Reduces likelihood of bias by one idiosyncratic user or interview
+- Output of consolidation is one set of work models, which show main pattern and possible variations
+
+###Affinity diagram
+
+- One affinity diagram is generated by the team during the consolidation process
+
+- Topic
+    - Themes
+        - Synthetic Points
+            - Individual Notes
+
+One technique: write each note on one post-it, and if the notes are exactly the same, just make stacks...no need to rewrite 
+
