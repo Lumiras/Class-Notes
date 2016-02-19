@@ -112,7 +112,7 @@
 	- Data inserted into files is kept in repo and can be downloaded
 - Robust export engine
 - Pushes Git commits automatically
-
+- Allows for d3.js or other rich HTML embeds
 
 ###Audience
 
